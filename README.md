@@ -14,9 +14,9 @@ Copy the
 * `SIF` file
 * and the `fdupes` script
 
-to `/opt/packages/fdupes/2.1.2`.
+to `/opt/packages/fdupes/2.4.0`.
 
-Copy the file `modulefile.lua` to `/opt/modulefiles/fdupes` as `2.1.2.lua`.
+Copy the file `modulefile.lua` to `/opt/modulefiles/fdupes` as `2.4.0.lua`.
 
 ## Building the image using the recipe
 ### To build the image locally
