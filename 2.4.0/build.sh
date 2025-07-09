@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Copyright © 2021 Pittsburgh Supercomputing Center.
+# Copyright © 2025 Pittsburgh Supercomputing Center.
 # All Rights Reserved.
 
-IMAGE=singularity-fdupes-2.1.2.sif
+IMAGE=singularity-fdupes-2.4.0.sif
 DEFINITION=Singularity
 
 if [ -f $IMAGE ]; then
